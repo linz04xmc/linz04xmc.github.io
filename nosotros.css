@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@100..700&family=Rubik+Glitch+Pop&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Sixtyfour&display=swap');
+
+*{
+    font-family: "Shantell Sans", cursive;
+}
+
+.navbar-brand{
+    font-size: x-large;
+}
+.navbar {
+    font-size:large;
+    
+}
+
